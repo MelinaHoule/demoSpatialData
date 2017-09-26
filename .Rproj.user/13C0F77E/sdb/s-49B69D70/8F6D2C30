@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Bam website\"\noutput_dir: \".\"\nnavbar:\n  title: \"BAM spatial data Website\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"Data\"\n      href: about.html",
+    "created" : 1506450081677.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2097896644",
+    "id" : "8F6D2C30",
+    "lastKnownWriteTime" : 1506451379,
+    "last_content_update" : 1506451379241,
+    "path" : "C:/MelinaStuff/Contracts/BAM/local_github/bamSpatial/demoSpatialData/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

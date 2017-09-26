@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "## Make sure you have the last version install\ninstall.packages(\"rmarkdown\", type = \"source\")\n\n## Create empty file \nfile.create(\"_site.yml\") #\"YML\" file that tells your website how to assemble itself\nfile.create(\"index.Rmd\") #Create the main rmd file\nfile.create(\"about.Rmd\") #Create an about file\n\n## You now need to fill mnually \"_site.yml\",\"index.Rmd\", \"about.Rmd\". \n## Open individually the files and fill them with example given on the tutorial. \n\n## After you fill each file with the example, to turn these separate files into a single cohesive website,\n## you need to create one more file. This time just a plain r script.\nfile.create(\"build_site.R\")\n",
+    "created" : 1506449218235.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "26556182",
+    "id" : "B8C2372D",
+    "lastKnownWriteTime" : 1506451286,
+    "last_content_update" : 1506451286035,
+    "path" : "C:/MelinaStuff/Contracts/BAM/local_github/bamSpatial/demoSpatialData/prep.R",
+    "project_path" : "prep.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

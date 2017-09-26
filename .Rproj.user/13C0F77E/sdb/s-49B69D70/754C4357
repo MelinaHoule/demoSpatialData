@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"BAM spatial data Website\"\n---\n\nHello, World!",
+    "created" : 1506450205587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3556868371",
+    "id" : "754C4357",
+    "lastKnownWriteTime" : 1506451323,
+    "last_content_update" : 1506451323367,
+    "path" : "C:/MelinaStuff/Contracts/BAM/local_github/bamSpatial/demoSpatialData/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

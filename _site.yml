@@ -1,0 +1,9 @@
+name: "Bam website"
+output_dir: "."
+navbar:
+  title: "BAM spatial data Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Data"
+      href: about.html
