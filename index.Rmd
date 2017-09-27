@@ -1,9 +1,13 @@
 ---
 title: "BAM spatial data Website"
-output:
-  html_document:
-    includes:
-      in_header: style.tex
+output: html_document
 ---
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri(file.path("logo.png")), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; left:0; padding:10px;')
+```
+
 
 Hello, World!
