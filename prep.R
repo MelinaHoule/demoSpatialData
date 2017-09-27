@@ -12,3 +12,7 @@ file.create("about.Rmd") #Create an about file
 ## After you fill each file with the example, to turn these separate files into a single cohesive website,
 ## you need to create one more file. This time just a plain r script.
 file.create("build_site.R")
+
+
+
+rmarkdown::render("index.Rmd")
