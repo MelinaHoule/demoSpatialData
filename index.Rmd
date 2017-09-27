@@ -1,6 +1,30 @@
 ---
-title: "BAM spatial data Website"
+title: ""
 output: html_document
 ---
 
-Hello, World!
+
+<br/><br/><br/>
+<span style="font-family:myFancyFont; font-size:3em;">BAM Spatial Data Website</span>
+<br/>
+
+Welcome to this demo. The idea is to illustrate the use of RMarkdown to create an interactive website to manage spatial data.
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

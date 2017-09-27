@@ -3,9 +3,17 @@ output_dir: "."
 navbar:
   #title: '<div><img src="logo.png"></img>My BAM spatial data Website</div>'
   #title: "<img id=\"logo\" style=\"width: 60px; padding: 0px;\" src=\"logo.png\" />"
-  title: "<img id=\"logo\" style=\"position:static;top:0px;right:0px;width: 200px;\" src=\"logo.png\" />"
-  center: 
-    - text: "Home"
+  title: "<img id=\"logo\" style=\"top:0px;right:10px;width: 150px;\" src=\"logo2.png\" />"
+  left: 
+    - text: "Boreal Avian Modelling Project"
       href: index.html
-    - text: "Data"
+  right:
+    - text: "Spatial Data"
       href: about.html
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: css/style.css
