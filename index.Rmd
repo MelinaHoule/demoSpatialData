@@ -1,5 +1,9 @@
 ---
 title: "BAM spatial data Website"
+output:
+  html_document:
+    includes:
+      in_header: style.tex
 ---
 
 Hello, World!
