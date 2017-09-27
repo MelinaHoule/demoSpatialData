@@ -2,9 +2,11 @@ name: "Bam website"
 output_dir: "."
 navbar:
   title: "BAM spatial data Website"
-  logo: ![](logo.png)
   left:
     - text: "Home"
       href: index.html
     - text: "Data"
       href: about.html
+  output:
+   includes:
+     in_header: style.tex
