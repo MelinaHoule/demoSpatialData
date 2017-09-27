@@ -1,8 +1,9 @@
 name: "Bam website"
 output_dir: "."
 navbar:
-  title: '<div><img src="logo.png"></img>My BAM spatial data Website</div>'
- # title: "BAM spatial data Website"
+  #title: '<div><img src="logo.png"></img>My BAM spatial data Website</div>'
+  #title: "<img id=\"logo\" style=\"width: 60px; padding: 0px;\" src=\"logo.png\" />"
+  title: "<img id=\"logo\" style=\"position:static;top:0px;right:0px;width: 200px;\" src=\"logo.png\" />"
   left:
     - text: "Home"
       href: index.html
