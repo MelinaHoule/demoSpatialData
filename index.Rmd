@@ -6,7 +6,7 @@ output: html_document
 ```{r, echo=FALSE}
 htmltools::img(src = knitr::image_uri(file.path("logo.png")), 
                alt = 'logo', 
-               style = 'position:absolute; top:0; left:0; padding:2px; zoom: 0.5;')
+               style = 'position:absolute; top:0; left:0; padding:6px;')
 ```
 
 
