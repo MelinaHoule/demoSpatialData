@@ -1,3 +1,10 @@
+
+####
+#### Source Website:http://nickstrayer.me/RMarkdown_Sites_tutorial/
+#### Example: http://www.lucymcgowan.com/index.html
+#### Github Source: https://github.com/LucyMcGowan/lucymcgowan.github.io
+
+
 ## Make sure you have the last version install
 install.packages("rmarkdown", type = "source")
 
@@ -16,3 +23,7 @@ file.create("build_site.R")
 
 
 rmarkdown::render("index.Rmd")
+
+file.create("style.css") #Create ana style file
+file.create("footer.html") 
+
