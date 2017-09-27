@@ -7,6 +7,3 @@ navbar:
       href: index.html
     - text: "Data"
       href: about.html
-  output:
-   includes:
-     in_header: style.tex
